@@ -3,3 +3,18 @@ body {
   height: 100%;
   margin: 0;
 }
+h1{
+  text-align: center;
+}
+nav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+a{
+  display: inline;
+  display: block;
+  padding: 8px;
+  background-color: bisque;
+}
